@@ -1,0 +1,6 @@
+Model,Rmse_score
+Gradient_boosting,552989.4121589989
+Catboost,555607.0478844547
+XGboost,565757.6346373479
+Random_Forest,597792.4066304192
+Linear_Regression,687555.3350497584
