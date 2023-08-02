@@ -1,0 +1,4 @@
+
+# Employing Machine Learning for Real Estate Price Prediction
+
+This project focuses on real estate price prediction in Wazobia's market, leveraging advanced Machine Learning techniques. By conducting Exploratory Data Analysis (EDA) on key features like location, bedrooms, bathrooms, house title, and parking space, we aim to identify the significant factors influencing house prices. The main goal is to develop an accurate predictive model that empowers better decision-making for buyers, sellers, and investors. The project showcases data preprocessing, model building, hyperparameter optimization, and feature interpretation, using Gradient Boosting Machine as the top-performing model. The findings and insights gained from this study can be invaluable for stakeholders in the real estate industry
